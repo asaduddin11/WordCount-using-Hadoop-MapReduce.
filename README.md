@@ -3,8 +3,13 @@ WordCount program code using RStudio.
 
 The WordCount.java file when executed performs MapReduce funtion on large amounts of text.
 you can install and configure Hadoop in your machine, as long as it runs  Linux or OSX. You can find Hadoop installation instructions for your computer at:
-
 http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html
+
+You can use either an IDE (Eclipse, Netbeans), or your favorite code editor to create the Hadoop classes. However, the project must be built and packaged using the Ant script.
+The following Youtube video provides a step by step guide on configuring Hadoop for Eclipse and Ant in the ITL environment:
+https://qmplus.qmul.ac.uk/mod/url/view.php?id=710623
+
+
 
 
 
