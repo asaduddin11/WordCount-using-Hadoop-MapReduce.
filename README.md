@@ -1,4 +1,4 @@
-# WordCount-using-RStudio
+# WordCount-using-Hadoop-MapReduce
 WordCount program code using RStudio.
 
 The WordCount.java file when executed performs MapReduce funtion on large amounts of text.
