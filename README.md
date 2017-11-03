@@ -2,6 +2,9 @@
 WordCount program code using RStudio.
 
 The WordCount.java file when executed performs MapReduce funtion on large amounts of text.
+you can install and configure Hadoop in your machine, as long as it runs  Linux or OSX. You can find Hadoop installation instructions for your computer at:
+
+http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html
 
 
 
