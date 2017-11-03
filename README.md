@@ -18,7 +18,7 @@ Include the build.xml file in your root folder. This file is customized. You wil
 
 Open Terminal.
 In the root directory.
-bash:ant clean dist
+bash:ant clean dist (For a complete reference on the ant building system you can check   http://ant.apache.org)
 Upon successful execution, it creates a dist folder in the root folder which contains the WordCount.jar file.
 
 bash: hadoop-local jar /dist/WordCount.jar WordCount input out
